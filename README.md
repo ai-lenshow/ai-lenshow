@@ -1,3 +1,5 @@
+![Lenshow — Build · Focus · Deliver](assets/banner.png)
+
 # Hi, I'm lenshow 👋
 
 Founder of [AILENSHOW LIMITED](https://ailenshow.com) — an independent software studio registered in England and Wales, building AI-era productivity tools for learning, work and everyday life.
